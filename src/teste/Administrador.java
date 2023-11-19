@@ -9,6 +9,7 @@ public class Administrador {
     String nome;
     String user;
     String senha;
+    /* teste */
     
     public boolean VerificarAdm(String UserField){
         String user = UserField;

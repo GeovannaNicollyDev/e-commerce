@@ -24,6 +24,8 @@ public class AdmArea extends javax.swing.JFrame {
         LogoCenter.setIcon(new javax.swing.ImageIcon(getClass().getResource("/teste/midias/logo_center.png")));
     }
 
+    String teste = null;
+
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
